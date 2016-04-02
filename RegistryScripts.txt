@@ -1,0 +1,10 @@
+Knowledge to impart:
+  - Read, write registry entries - locally via powershell
+  - using vbscript methods
+  - using WMI - local and remote
+  - using Perl
+  - using Python
+  
+  
+  
+  
